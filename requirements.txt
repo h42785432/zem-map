@@ -1,0 +1,4 @@
+osmnx>=2.0
+streamlit>=1.38
+folium>=0.17
+streamlit-folium>=0.23
