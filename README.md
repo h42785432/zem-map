@@ -17,3 +17,12 @@
 ・OSMnx
 ・folium
 ・OpenStreetMap
+
+
+地図データ
+
+Map data © OpenStreetMap contributors
+
+OpenStreetMapのデータは、Open Database License（ODbL）のもとで提供されています。
+
+https://www.openstreetmap.org/copyright
